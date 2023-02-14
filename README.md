@@ -25,8 +25,9 @@
 <p>rrb (reverse rotate b): Shift down all elements of stack b by 1.</p>
 <p>The last element becomes the first one.</p>
 <p>rrr : rra and rrb at the same time.<n/p>
-    <p></p>
-<b>THE "push_swap" PROGRAM<n/b>
+<p></p>
+<b>THE "push_swap" PROGRAM</b>
+<p></p>
 <p>Your project must comply with the following rules:</p>
 <p>• You have to turn in a Makefile which will compile your source files. It must not
 relink.</p>
@@ -47,8 +48,9 @@ prompt back.</p>
 <p>• In case of error, it must display "Error" followed by a ’\n’ on the standard error.
 <p>Errors include for example: some arguments aren’t integers, some arguments are
 bigger than an integer and/or there are duplicates.</p>
-  <p></p>
-<b>BONUS PART<n/b>
+<p></p>
+<b>BONUS PART</b>
+<p></p>
 <p>• Write a program named checker that takes as an argument the stack a formatted
 as a list of integers. The first argument should be at the top of the stack (be careful
 about the order). If no argument is given, it stops and displays nothing.</p>
