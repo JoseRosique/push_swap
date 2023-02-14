@@ -6,7 +6,7 @@
 <p>◦ The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.</p>
 <p>◦ The stack b is empty.</p>
 <p>• The goal is to sort in ascending order numbers into stack a. To do so you have the following operations at your disposal:</p>
-<p>sa (swap a): Swap the first 2 elements at the top of stack a.</p>
+<p><i>sa (swap a): Swap the first 2 elements at the top of stack a.</i></p>
 <p>Do nothing if there is only one or no elements.</p>
 <p>sb (swap b): Swap the first 2 elements at the top of stack b.</p>
 <p>Do nothing if there is only one or no elements.</p>
