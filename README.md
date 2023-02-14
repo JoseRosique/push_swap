@@ -46,7 +46,7 @@ prompt back.</p>
 <p>• In case of error, it must display "Error" followed by a ’\n’ on the standard error.
 <p>Errors include for example: some arguments aren’t integers, some arguments are
 bigger than an integer and/or there are duplicates.<n/p>
-<n/b>BONUS PART</b>
+<b>BONUS PART</b>
 <p>• Write a program named checker that takes as an argument the stack a formatted
 as a list of integers. The first argument should be at the top of the stack (be careful
 about the order). If no argument is given, it stops and displays nothing.</p>
