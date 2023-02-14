@@ -8,23 +8,23 @@
 <p>• The goal is to sort in ascending order numbers into stack a. To do so you have the following operations at your disposal:</p>
 <p><i>sa (swap a): Swap the first 2 elements at the top of stack a.</i></p>
 <p>Do nothing if there is only one or no elements.</p>
-<p>sb (swap b): Swap the first 2 elements at the top of stack b.</p>
+<p><i>sb (swap b): Swap the first 2 elements at the top of stack b.</i></p>
 <p>Do nothing if there is only one or no elements.</p>
-<p>ss : sa and sb at the same time.</p>
-<p>pa (push a): Take the first element at the top of b and put it at the top of a.</p>
+<p><i>ss : sa and sb at the same time.</i></p>
+<p><i>pa (push a): Take the first element at the top of b and put it at the top of a.</p>
 <p>Do nothing if b is empty.</p>
-<p>pb (push b): Take the first element at the top of a and put it at the top of b.</p>
+<p><i>pb (push b): Take the first element at the top of a and put it at the top of b.</i></p>
 <p>Do nothing if a is empty.</p>
-<p>ra (rotate a): Shift up all elements of stack a by 1.</p>
+<p><i>ra (rotate a): Shift up all elements of stack a by 1.</i></p>
 <p>The first element becomes the last one.</p>
-<p>rb (rotate b): Shift up all elements of stack b by 1.</p>
+<p><i>rb (rotate b): Shift up all elements of stack b by 1.</i></p>
 <p>The first element becomes the last one.</p>
-<p>rr : ra and rb at the same time.</p>
-<p>rra (reverse rotate a): Shift down all elements of stack a by 1.</p>
+<p><i>rr : ra and rb at the same time.</i></p>
+<p><i>rra (reverse rotate a): Shift down all elements of stack a by 1.</i></p>
 <p>The last element becomes the first one.</p>
-<p>rrb (reverse rotate b): Shift down all elements of stack b by 1.</p>
+<p><i>rrb (reverse rotate b): Shift down all elements of stack b by 1.</i></p>
 <p>The last element becomes the first one.</p>
-<p>rrr : rra and rrb at the same time.<n/p>
+<p><i>rrr : rra and rrb at the same time.</i><n/p>
 <p></p>
 <b>THE "push_swap" PROGRAM</b>
 <p></p>
