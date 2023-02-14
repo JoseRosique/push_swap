@@ -26,7 +26,7 @@
 <p>The last element becomes the first one.</p>
 <p>rrr : rra and rrb at the same time.<n/p>
     <p></p>
-<b>THE "push_swap" PROGRAM</b>
+<b>THE "push_swap" PROGRAM<n/b>
 <p>Your project must comply with the following rules:</p>
 <p>• You have to turn in a Makefile which will compile your source files. It must not
 relink.</p>
@@ -48,7 +48,7 @@ prompt back.</p>
 <p>Errors include for example: some arguments aren’t integers, some arguments are
 bigger than an integer and/or there are duplicates.</p>
   <p></p>
-<b>BONUS PART</b>
+<b>BONUS PART<n/b>
 <p>• Write a program named checker that takes as an argument the stack a formatted
 as a list of integers. The first argument should be at the top of the stack (be careful
 about the order). If no argument is given, it stops and displays nothing.</p>
